@@ -1,2 +1,3 @@
-# githubparaprogramadores
-Esto es una prueba de repositorio
+# Bienvenido al curso de Git hub para programadores
+
+[Visita mi blog](wwww.google.com.ar)
